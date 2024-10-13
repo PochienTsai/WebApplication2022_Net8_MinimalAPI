@@ -1,0 +1,6 @@
+@WebApplication2022_Net8_MinimalAPI_HostAddress = http://localhost:5281
+
+GET {{WebApplication2022_Net8_MinimalAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
